@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Keystore AES-GCM Demo</string>
+
+    <string name="hint_plaintext">Enter plaintext to encrypt…</string>
+    <string name="btn_encrypt">Encrypt</string>
+    <string name="btn_decrypt">Decrypt</string>
+
+    <string name="iv_b64">IV (Base64): %1$s</string>
+    <string name="ct_b64">Ciphertext+Tag (Base64): %1$s</string>
+    <string name="plain_text">Plaintext: %1$s</string>
+
+    <string name="encrypt_first">Nothing to decrypt. Please encrypt some text first.</string>
+    <string name="decrypt_failed">Decryption failed: %1$s</string>
+    <string name="error_generic">Error: %1$s</string>
+    <string name="encrypting">Encrypting…</string>
+    <string name="decrypting">Decrypting…</string>
+</resources>
